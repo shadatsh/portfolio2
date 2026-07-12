@@ -488,6 +488,8 @@ footer {
   text-align: center; color: var(--c-muted); font-size: 0.85rem;
 }
 footer span { color: var(--c-lime); }
+.footer-link { color: var(--c-cyan); text-decoration: none; }
+.footer-link:hover { text-decoration: underline; }
 
 /* ── REVEAL ANIMATION ── */
 .reveal {
